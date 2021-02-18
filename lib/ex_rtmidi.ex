@@ -1,0 +1,2 @@
+defmodule ExRtmidi do
+end
