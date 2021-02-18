@@ -6,6 +6,8 @@ Warning: This library is considered experimental/pre-alpha until some of the iss
 
 ## Help Needed
 
+**Consider checking the "Issues" tab if you're looking to help.**
+
 This library works as-is, but I'm not a C++ programmer. Any contributions are welcome, but help in these specific areas would go a long way:
 
 - C++
